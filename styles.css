@@ -1,0 +1,84 @@
+body{
+    background-color: #4B4D55;
+    width: 99vw;
+
+}
+.container{
+    display:grid;
+}
+.buttonClass{
+    background-color: #8EFFC9;
+    border-radius: 25px;
+    border: 20px;
+    padding: 0.8vw 2.96vw;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    font-size:1vw;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+
+#buttons{
+    text-align: center;
+
+}
+.buttonClass:hover{
+    background-color: #6cc99c;
+}
+
+.info{
+    color:#7b7f8f;
+    font-size:1vw;
+    font-family:monospace;
+    text-align: center;
+    bottom:0%;
+    left:25%;
+    right:25%;
+    position: fixed;
+
+    
+}
+h1{
+    color:white;
+    text-align: center;
+
+}
+
+#HODINA{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.check{
+    -webkit-appearance: none;
+	background-color: #4B4D55;
+	border: 0.5px solid #cacece;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+	padding: 9px;
+	border-radius: 3px;
+	display: inline-block;
+	position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#cacece;
+    
+}
+
+.checkButtons{
+    background-color: #fa5959;
+    border-radius: 18px;
+    border:0px;
+    padding: 0.5vw 1vw;
+    bottom: 100%;
+    
+
+}
+.checkText{
+    color:#cacece;
+    font-size:small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
