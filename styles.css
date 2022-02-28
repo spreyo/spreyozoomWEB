@@ -24,11 +24,6 @@ body {
   animation-fill-mode: forwards;
 }
 
-h1:hover {
-  animation-name: buttonAnim;
-  animation-duration: 1s;
-  animation-fill-mode: forwards;
-}
 
 @keyframes buttonAnim {
   from {
